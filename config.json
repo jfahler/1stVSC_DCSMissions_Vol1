@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "1st VSC WebGUI - Panic Server",
+      "hostname": "http://75.113.176.27",
+      "port": 8088,
+      "radar_refresh_rate": 5,
+      "enable_friendly_ground_units": true,
+      "enable_enemy_ground_units": true
+    }
+  ]
+}
