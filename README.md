@@ -2,6 +2,6 @@ This is a collection of missions by Bullet Magnet. As I am in the process of org
 
 
 To-do: 
-* change repo name 
+* <del>Change repo name</del> 
 * Create organization by mod
 * create list of commonly used scripts 
